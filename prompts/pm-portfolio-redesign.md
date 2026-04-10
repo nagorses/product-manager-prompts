@@ -1,5 +1,7 @@
 # Product Manager Portfolio - Site Redesign Prompt Sequence
 
+*⚠️ Important Note on AI Browsing Limitations: Most AI tools cannot fully render JavaScript-heavy sites in real time. When running this prompt, your AI tool may combine live browsing with pre-trained knowledge to produce benchmark and teardown outputs rather than doing a pure live scrape of every link. The output is still useful, but it is why the manual review step in your own browser is essential. Always ask your AI tool directly what it actually did to produce its output.*
+
 ## Introduction
 
 I will give you three separate, connected prompts over the next messages to redesign my Product Manager portfolio site.
